@@ -6,10 +6,10 @@ CareerPath adalah platform berbasis web yang dirancang untuk membantu mahasiswa 
 Project ini dikembangkan secara bertahap dengan memanfaatkan website CareerPath yang sudah ada. Pengembangan selanjutnya berfokus pada penyempurnaan fungsi website, penerapan DevOps untuk pengelolaan kode dan pengujian otomatis, serta eksplorasi Machine Learning dan MLOps sederhana sesuai kebutuhan project.
 
 ## Anggota Kelompok
-1. Jovanka Syakira Mulya - 2301530019 - GitHub
-2. Erlinda Sani Salsabila - 2301530027- GitHub
-3. Nazwa Ayumi Titania - 2301530033 - GitHub
-4. Muhammad Fico Ramadhani - 2301530032 - GitHub
+1. Jovanka Syakira Mulya - 2301530019 - jovankasya - Repository Owner
+2. Erlinda Sani Salsabila - 2301530027- erlindasani007-eng - Collaborator
+3. Nazwa Ayumi Titania - 2301530033 - nazwaayumi0033-blip - Collaborator
+4. Muhammad Fico Ramadhani - 2301530032 - muhammadfico0032-arch - Collaborator
 
 ## Tujuan Project
 1. Menyediakan platform pencarian lowongan pekerjaan dan magang yang mudah digunakan.
