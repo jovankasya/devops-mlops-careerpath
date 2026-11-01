@@ -57,7 +57,7 @@ Teknologi pada bagian pengembangan selanjutnya akan diterapkan secara bertahap s
 - [x] Membuat repository GitHub.
 - [x] Membuat README.
 - [x] Mengunggah source code awal website CareerPath.
-- [ ] Menyelesaikan struktur repository dengan folder `docs/` dan `src/`.
+- [x] Menyelesaikan struktur repository dengan folder `docs/` dan `src/`.
 - [ ] Memeriksa dan menyempurnakan fungsi login dan logout.
 - [ ] Memastikan fitur pencarian dan detail lowongan berjalan dengan baik.
 - [ ] Mengintegrasikan database jika diperlukan.
