@@ -59,7 +59,8 @@ Teknologi pada bagian pengembangan selanjutnya akan diterapkan secara bertahap s
 - [x] Mengunggah source code awal website CareerPath.
 - [x] Menyelesaikan struktur repository dengan folder `docs/` dan `src/`.
 - [x] Memeriksa dan menyempurnakan fungsi login dan logout.
-- [x] Memastikan fitur pencarian dan detail lowongan berjalan dengan baik.
+- [x] Memastikan fitur pencarian lowongan berjalan dengan baik.
+- [ ] Memeriksa fungsi detail lowongan.
 - [ ] Mengintegrasikan database jika diperlukan.
 - [ ] Menambahkan pengujian otomatis untuk fungsi utama website.
 - [ ] Menerapkan GitHub Actions untuk Continuous Integration.
